@@ -27,6 +27,7 @@ This project analyzes inventory data using SQL and Python to uncover key pattern
 
 4. 🌐 Deployment  
    - The dashboard is hosted online and accessible via a shareable Streamlit link.
+   - https://iitgop-ezycxyfiwgtrh4vmi8tbzp.streamlit.app/
 
 ---
 ## 👥 Project Team
