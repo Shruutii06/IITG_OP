@@ -13,8 +13,9 @@ This project analyzes inventory data using SQL and Python to uncover key pattern
 ## ✅ Components
 
 1. 🧮 SQL Queries  
-   - 10 high-impact queries analyzing reorder needs, inventory turnover, supply-demand gaps, and forecast accuracy.
-
+   - Schema_design file containes the query for database and tables formation.
+   - High-impact queries analyzing reorder needs, inventory turnover, supply-demand gaps, and forecast accuracy.
+     
 2. 📊 Streamlit Dashboard  
    - Interactive KPIs, bar charts, pie charts, and filters by region or gap type.
    - Built with Streamlit + Plotly.
@@ -28,6 +29,8 @@ This project analyzes inventory data using SQL and Python to uncover key pattern
 4. 🌐 Deployment  
    - The dashboard is hosted online and accessible via a shareable Streamlit link.
    - https://iitgop-ezycxyfiwgtrh4vmi8tbzp.streamlit.app/
+
+- The SQL_project.ipynb contains some basic preprocessing of the dataset
 
 ---
 ## 👥 Project Team
